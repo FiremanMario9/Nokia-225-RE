@@ -8,7 +8,7 @@ Filename:
 MOCOR_12C.W13.04.05_Release_20160721_193620_FullFlash.bin
 
 Source:
-androiddatahost.com (link)
+[https://androiddatahost.com/wp-content/uploads/Nokia_225_12C.W13.04.05_20160721.zip]
 
 SHA-256:
 (TODO)
