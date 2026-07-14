@@ -23,3 +23,15 @@ Chipset: Unisoc T117
 
 USB VID:PID
 2E04:0022
+
+## Milestones
+
+- [x] Identify device
+- [x] Identify USB interface
+- [x] Identify chipset
+- [x] Obtain first MOCOR firmware sample
+- [ ] Obtain confirmed TA-1282 firmware
+- [ ] Reverse engineer boot process
+- [ ] Identify firmware format
+- [ ] Find application loader
+- [ ] Execute custom code
