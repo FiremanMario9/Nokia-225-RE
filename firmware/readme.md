@@ -2,38 +2,30 @@
 
 This directory documents firmware used during analysis.
 
-## MOCOR Sample
+## MOCOR 12C Sample
 
-Filename:
-MOCOR_12C.W13.04.05_Release_20160721_193620_FullFlash.bin
+**Filename:**
 
-Source:
-[https://androiddatahost.com/wp-content/uploads/Nokia_225_12C.W13.04.05_20160721.zip]
+`MOCOR_12C.W13.04.05_Release_20160721_193620_FullFlash.bin`
 
-SHA-256:
-(TODO)
+**Source:**
 
-Notes:
-- Appears to be a 4 MiB MOCOR FullFlash image.
-- Believed to be an older Unisoc firmware.
-- Not confirmed compatible with the Nokia 225 4G TA-1282.
+https://androiddatahost.com/wp-content/uploads/Nokia_225_12C.W13.04.05_20160721.zip
 
-## Firmware 001
+**SHA-256:**
 
-Filename:
-MOCOR_12C.W13.04.05_Release_20160721_193620_FullFlash.bin
+`145087cc05a012cb7af7657c0c8c6aecd3dc63c0f55cbd321d228015d095738b`
 
-Origin:
-AndroidDataHost
+**File size:** 4 MiB
 
-Date:
-2016-07-21
+**Release date:** 2016-07-21
 
-Status:
-Not confirmed TA-1282
+**Status:** Unconfirmed compatibility with Nokia 225 4G (TA-1282).
 
-Analysis:
-- 4 MiB
-- ARM executable
-- Contains debug strings
-- MOCOR platform
+**Notes:**
+- MOCOR firmware sample.
+- Contains apparent ARM executable code.
+- Not confirmed to originate from the Nokia 225 4G.
+- Used for preliminary firmware-format research.
+
+Do not flash this firmware onto the TA-1282.
