@@ -2,6 +2,9 @@
 
 Reverse engineering the Nokia 225 4G (TA-1282).
 
+## Disclamer:
+Please note this project is entirely developed by ChatGPT, as I have no real knowledge of reverse-engineering.
+
 ## Goals
 
 - Document the hardware
