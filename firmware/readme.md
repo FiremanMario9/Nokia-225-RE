@@ -12,7 +12,7 @@ This directory documents firmware used during analysis.
 
 https://androiddatahost.com/wp-content/uploads/Nokia_225_12C.W13.04.05_20160721.zip
 
-**Alternate Download if original is taken down**
+**Alternate download if original is taken down**
 
 https://archive.org/details/mocor-12-c.-w-13.04.05-release-20160721-193620-full-flash
 
